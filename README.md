@@ -14,7 +14,7 @@
 - 🕹️ Mainly a **2D game developer**, also working on **3D games**
 - 💻 I enjoy the whole process: gameplay logic, mechanics, and polish
 - 🌱 Always learning something new in game dev
-- 📫 Reach me: GermingTV@proton.me
+- 📫 Reach me: [Add your email or Discord here]
 
 ---
 
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GermingTV&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=GermingTV&theme=radical" />
 </p>
 
 ---
