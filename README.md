@@ -62,8 +62,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GermingTV&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermingTV&layout=compact&theme=radical" />
+  <img height="165" src="./generated/overview.svg" />
+  <img height="165" src="./generated/languages.svg" />
 </p>
 
 <p align="center">
@@ -71,5 +71,6 @@
 </p>
 
 ---
+
 
 <p align="center"><i>⭐ Check out my pinned repos below for my latest game projects!</i></p>
