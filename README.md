@@ -14,7 +14,7 @@
 - 🕹️ Mainly a **2D game developer**, also working on **3D games**
 - 💻 I enjoy the whole process: gameplay logic, mechanics, and polish
 - 🌱 Always learning something new in game dev
-- 📫 Reach me: [Add your email or Discord here]
+- 📫 Reach me: GermingTV@proton.me
 
 ---
 
@@ -55,15 +55,12 @@
 - [ ] Unity
 - [ ] Clean architecture for game projects
 
-*(Edit this list to match what you're actually working on!)*
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="./generated/overview.svg" />
-  <img height="165" src="./generated/languages.svg" />
+  <img src="./generated/metrics.svg" />
 </p>
 
 <p align="center">
@@ -71,6 +68,5 @@
 </p>
 
 ---
-
 
 <p align="center"><i>⭐ Check out my pinned repos below for my latest game projects!</i></p>
