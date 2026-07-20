@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Card
+ 
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
+  workflow_dispatch:        # lets you also trigger it manually from the Actions tab
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+ 
+      - name: Generate stats images
+        uses: jstrieb/github-stats@main
+        with:
+          username: GermingTV
+          exclude_repos: ""
+          exclude_langs: ""
+          include_all_commits: true
+ 
