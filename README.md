@@ -62,12 +62,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GermingTV&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermingTV&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=germingtv&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germingtv&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=germingtv&theme=radical" />
 </p>
 
 ---
